@@ -5,13 +5,7 @@ const Home: NextPage = () => {
   return (
     <ul>
       <li>
-        <Link href="/basic">Basic Example</Link>
-      </li>
-      <li>
-        <Link href="/jwt-cookie">JWT Cookie</Link>
-      </li>
-      <li>
-        <Link href="/connect-button">Connect Button Integration</Link>
+        <Link href="/connect-embed">Connect Embed State bug</Link>
       </li>
     </ul>
   );
